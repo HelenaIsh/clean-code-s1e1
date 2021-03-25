@@ -135,7 +135,7 @@ input[type="text"] {
   width: 226px;
 }
 
-button.delete:hover {
+.delete:hover {
   color: #cf2323;
 }
 
